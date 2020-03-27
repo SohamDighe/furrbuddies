@@ -1,0 +1,2 @@
+# furrbuddies
+GitHub Pages
